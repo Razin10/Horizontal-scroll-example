@@ -1,5 +1,5 @@
 # Horizontal-scroll-example
-## [Watch it on vercel](https://youtu.be/QN7xPfkfNmA)
+## [Watch it on vercel](https://horizontal-scroll-example-nine.vercel.app/)
 ### Horizontal-scroll with GSAP
 
 
